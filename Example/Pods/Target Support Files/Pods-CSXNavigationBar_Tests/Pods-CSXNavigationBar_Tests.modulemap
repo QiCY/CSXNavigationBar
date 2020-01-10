@@ -1,0 +1,6 @@
+framework module Pods_CSXNavigationBar_Tests {
+  umbrella header "Pods-CSXNavigationBar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

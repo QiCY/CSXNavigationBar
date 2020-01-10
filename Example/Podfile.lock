@@ -1,0 +1,24 @@
+PODS:
+  - CSXNavigationBar (0.1.0):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CSXNavigationBar (from `../`)
+  - Masonry
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  CSXNavigationBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CSXNavigationBar: bdf12f5e60382267dbf70d0519a5cbb399f5a1a9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 2bd509d4aec749ee4b59bb4669ad9ae3168829ae
+
+COCOAPODS: 1.8.4
